@@ -58,8 +58,8 @@ Esta página reúne links úteis para **pesquisas técnicas, estudos, documenta�
 
 ## ⭐ Top 10 GitHub – Repositórios Mais Acessados
 
-1. [SigmaHQ / sigma](https://github.com/SigmaHQ/sigma)  
-   Regras genéricas de detecção para SIEMs.
+1. [Mthcht](https://github.com/SigmaHQ/sigma](https://github.com/mthcht)
+   Listas e Detecções.
 
 2. [elastic / detection-rules](https://github.com/elastic/detection-rules)  
    Regras oficiais de detecção do Elastic Security.
