@@ -47,6 +47,14 @@ Esta página reúne links úteis para **pesquisas técnicas, estudos, documenta�
 
 ---
 
+
+## 🔌 Integração de Fontes de Log
+- [Securonix]([https://datatracker.ietf.org/doc/html/rfc5424](https://documentation.securonix.com/bundle/securonix-multi-tenant-user-guide/page/content/active-deployment-guides/activity-import-connectors.htm))
+- [Syslog RFC 3164](https://datatracker.ietf.org/doc/html/rfc3164)
+
+---
+
+
 ## ✍️ Observações
 - Links adicionados conforme necessidade  
 - Página em constante evolução
