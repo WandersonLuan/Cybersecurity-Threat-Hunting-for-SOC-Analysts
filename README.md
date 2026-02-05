@@ -58,7 +58,7 @@ Esta página reúne links úteis para **pesquisas técnicas, estudos, documenta�
 
 ## ⭐ Top 10 GitHub – Repositórios Mais Acessados
 
-1. [Mthcht](https://github.com/SigmaHQ/sigma](https://github.com/mthcht)
+1. [Mthcht](https://github.com/mthcht)
    Listas e Detecções.
 
 2. [elastic / detection-rules](https://github.com/elastic/detection-rules)  
