@@ -54,6 +54,44 @@ Esta página reúne links úteis para **pesquisas técnicas, estudos, documenta�
 
 ---
 
+---
+
+## ⭐ Top 10 GitHub – Repositórios Mais Acessados
+
+1. [SigmaHQ / sigma](https://github.com/SigmaHQ/sigma)  
+   Regras genéricas de detecção para SIEMs.
+
+2. [elastic / detection-rules](https://github.com/elastic/detection-rules)  
+   Regras oficiais de detecção do Elastic Security.
+
+3. [redcanaryco / atomic-red-team](https://github.com/redcanaryco/atomic-red-team)  
+   Testes atômicos mapeados ao MITRE ATT&CK.
+
+4. [mitre / caldera](https://github.com/mitre/caldera)  
+   Plataforma de adversary emulation.
+
+5. [OWASP / Amass](https://github.com/OWASP/Amass)  
+   Enumeração de superfícies de ataque e reconhecimento.
+
+6. [sqlmapproject / sqlmap](https://github.com/sqlmapproject/sqlmap)  
+   Testes automatizados de SQL Injection.
+
+7. [nmap / nmap](https://github.com/nmap/nmap)  
+   Scanner de rede e serviços amplamente utilizado.
+
+8. [zeek / zeek](https://github.com/zeek/zeek)  
+   Análise e monitoramento de tráfego de rede.
+
+9. [matomo-org / device-detector](https://github.com/matomo-org/device-detector)  
+   Identificação e classificação de User Agents.
+
+10. [Splunk / security-content](https://github.com/splunk/security-content)  
+    Conteúdo de segurança e casos de uso para SOC.
+
+---
+
+
+
 
 ## ✍️ Observações
 - Links adicionados conforme necessidade  
