@@ -54,7 +54,7 @@ Esta página reúne links úteis para **pesquisas técnicas, estudos, documenta�
 
 ---
 ## 📂IP Ranges de Fornecedores – Whitelist / Exceções
-- [Medium – Cybersecurity](https://medium.com/tag/cybersecurity)
+- [Zscaler Range](https://config.zscaler.com/zscaler.net/cenr)
 - [SANS Reading Room](https://www.sans.org/white-papers/)
 ---
 
