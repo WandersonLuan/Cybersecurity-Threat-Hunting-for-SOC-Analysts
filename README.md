@@ -57,6 +57,11 @@ Esta página reúne links úteis para **pesquisas técnicas, estudos, documenta�
 - [Zscaler Range](https://config.zscaler.com/zscaler.net/cenr)
 - [SANS Reading Room](https://www.sans.org/white-papers/)
 ---
+---
+## 📂Template PaloAlto CEF
+- [PaloAlto](https://docs.paloaltonetworks.com/resources/cef)
+  
+---
 
 ## ⭐ Top 10 GitHub – Repositórios Mais Acessados
 
