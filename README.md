@@ -26,6 +26,7 @@ Esta página reúne links úteis para **pesquisas técnicas, estudos, documenta�
 - [Hybrid Analysis](https://www.hybrid-analysis.com)
 - [Sandbox Malwr](https://any.run/)
 - [Hash Malware](https://valkyrie.comodo.com/)
+- [Tipo do Ransoware](https://id-ransomware.malwarehunterteam.com/)
 ---
 
 ## 📊 SOC / Blue Team
