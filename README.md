@@ -24,7 +24,8 @@ Esta página reúne links úteis para **pesquisas técnicas, estudos, documenta�
 - [VirusTotal](https://www.virustotal.com)
 - [AbuseIPDB](https://www.abuseipdb.com)
 - [Hybrid Analysis](https://www.hybrid-analysis.com)
-
+- [Sandbox Malwr] [(https://any.run/)
+- [Hash Malware] (https://valkyrie.comodo.com/)
 ---
 
 ## 📊 SOC / Blue Team
